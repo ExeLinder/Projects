@@ -20,18 +20,18 @@ struct MyStruct
 	int x;
 	void Method(){} 
 };
-int main()
+int main() 
 {
 	
-<<<<<<< HEAD
+
 	cout << "Hello";
 	cout << "Hello"; 
 	cout << "Hello";
 	cout << "World";
-=======
+
 	cout << "HelloWorld";
 
->>>>>>> 46ab6be43d91d27f8bfcfc13a1f09001643bed08
+
 
 
 }
