@@ -17,7 +17,7 @@ int func3(int x)
 
 struct MyStruct
 {
-	void Method(){}
+	void Method(){} 
 };
 int main()
 {
