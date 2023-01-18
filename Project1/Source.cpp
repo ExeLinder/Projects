@@ -18,15 +18,22 @@ int func3(int x)
 struct MyStruct
 {
 	int x;
+	void Method(){} 
 };
-int main()
+int main() 
 {
 	
+
 	cout << "Hello";
+	cout << "Hello"; 
 	cout << "Hello";
 	cout << "Hello World";
 	cout << "Hello";
 	cout << "World";
+
+	cout << "HelloWorld";
+
+
 
 
 }
