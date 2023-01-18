@@ -25,7 +25,7 @@ int main()
 	
 <<<<<<< HEAD
 	cout << "Hello";
-	cout << "Hello";
+	cout << "Hello"; 
 	cout << "Hello";
 	cout << "World";
 =======
