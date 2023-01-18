@@ -17,7 +17,7 @@ int func3(int x)
 
 struct MyStruct
 {
-
+	int x;
 };
 int main()
 {
